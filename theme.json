@@ -1,17 +1,17 @@
 {
-    "id": "defdark",
-    "name": "DefDark",
+    "id": "shizuku",
+    "name": "Shizuku",
     "version": "1.0.0",
     "author": "成成0v0 (hic.top, chengcheng@miao.ms)",
-    "repo": "https://github.com/ChengCheng0v0/ACG-Home",
+    "repo": "https://github.com/qichenya/Shizuku",
     "files": {
-        "styles": [],
+        "styles": ["elements.css", "index.css"],
         "scripts": []
     },
     "colors": {
         "list": {
             "light": {
-                "displayName": "Light",
+                "displayName": "软化成成",
                 "files": {
                     "styles": [],
                     "scripts": []
@@ -23,7 +23,7 @@
                 }
             },
             "dark": {
-                "displayName": "Dark",
+                "displayName": "黑化成成",
                 "files": {
                     "styles": ["elements.css", "index.css"],
                     "scripts": []
